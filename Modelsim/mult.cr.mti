@@ -1,0 +1,18 @@
+D:/Az-Manteghi-Memari/7th-Session/VHDL-Codes/multiplier_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\Az-Manteghi-Memari\7th-Session\VHDL-Codes\multiplier_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity multiplier_tb
+-- Compiling architecture behavior of multiplier_tb
+
+} {} {}} D:/Az-Manteghi-Memari/7th-Session/VHDL-Codes/multiplier.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\Az-Manteghi-Memari\7th-Session\VHDL-Codes\multiplier.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity multiplier
+-- Compiling architecture behavioral of multiplier
+
+} {} {}}
